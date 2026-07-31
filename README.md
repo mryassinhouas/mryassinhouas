@@ -63,10 +63,8 @@ Become a Professional Cybersecurity Engineer.
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mryassinhouas&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,30:0047AB,60:00BFFF,100:000000"/>
 </p>
 
 ---
