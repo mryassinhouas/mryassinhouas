@@ -44,14 +44,10 @@ Become a Professional Cybersecurity Engineer.
 
 ---
 
-# 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mryassinhouas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mryassinhouas&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://raw.githubusercontent.com/mryassinhouas/mryassinhouas/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
