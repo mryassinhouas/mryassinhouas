@@ -64,9 +64,7 @@ Become a Professional Cybersecurity Engineer.
 ---
 
 <p align="center">
-
-══════════════════════════════════════════════════════════════════════════════
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00bfff,100:000000"/>
 </p>
 
 ---
