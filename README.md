@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Med Yassin
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Web+Developer;Python+%7C+JavaScript+Developer;Future+Cybersecurity+Engineer;Always+Learning+New+Technologies" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Big+Data+Student;Python+Developer;Web+Developer;Future+Data+Engineer;Always+Learning+New+Technologies">
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
@@ -12,34 +11,31 @@
 
 # 💻 About Me
 
-🔐 Cybersecurity Student
+📊 Big Data Student
 
-💙 Passionate about Ethical Hacking & Security
+💙 Passionate about Data Science, Big Data & AI
 
 🌍 From Tunisia
 
-💻 Building websites and desktop applications
-
-🚀 Currently learning
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- Electron
+💻 Building websites, desktop applications and data projects
 
 🎯 Goal
 
-Become a Professional Cybersecurity Engineer.
+Become a Professional Big Data Engineer.
 
+- Python
+- SQL
+- Big Data
+- JavaScript
+- HTML & CSS
+- Linux
+- Git & GitHub
 ---
 
 # ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,github,linux&perline=8"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,linux,vscode,mysql&perline=10"/>
 </p>
 
 ---
@@ -83,9 +79,11 @@ Become a Professional Cybersecurity Engineer.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=apachehadoop&logoColor=00BFFF"/>
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql"/>
 
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
 
