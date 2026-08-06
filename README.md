@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Med Yassin
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Big+Data+Student;Python+Developer;Web+Developer;Future+Data+Engineer;Always+Learning+New+Technologies">
----
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
