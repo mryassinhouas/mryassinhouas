@@ -50,15 +50,6 @@ Become a Professional Big Data Engineer.
 
 ---
 
-### 🧠 Currently Learning
-
- Python  •  SQL  •  Pandas  •  Power BI  • Data Visualization • Big Data
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mryassinhouas&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
