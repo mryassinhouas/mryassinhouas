@@ -49,11 +49,9 @@ Become a Professional Big Data Engineer.
 </p>
 
 ---
-
-# 🏆 GitHub Achievements
-
+## 🎖️ Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mryassinhouas&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mryassinhouas&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=5"/>
 </p>
 
 ---
