@@ -13,13 +13,14 @@
 
 📊 Big Data Student
 
-💙 Passionate about Data Science, Big Data & AI
+💙 Passionate about Data Science, Big Data & AI and trading
 
 🌍 From Tunisia
 
 💻 Building websites, desktop applications and data projects
 
 🎯 Goal
+
 
 Become a Professional Big Data Engineer.
 
