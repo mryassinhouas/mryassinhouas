@@ -50,7 +50,9 @@ Become a Professional Big Data Engineer.
 
 ---
 
-# 🔥 GitHub Streak
+### 🧠 Currently Learning
+
+ Python  •  SQL  •  Pandas  •  Power BI  • Data Visualization • Big Data
 
 <p align="center">
 
