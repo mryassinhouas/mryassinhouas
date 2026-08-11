@@ -49,10 +49,11 @@ Become a Professional Big Data Engineer.
 </p>
 
 ---
-## 🎖️ Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mryassinhouas&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=5"/>
-</p>
+🎮 DEVELOPER LEVEL
+
+LEVEL 12
+━━━━━━━━━━━━━━━━━━░░░░
+1,240 / 1,500 XP
 
 ---
 
