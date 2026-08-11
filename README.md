@@ -52,7 +52,7 @@ Become a Professional Big Data Engineer.
 🎮 DEVELOPER LEVEL
 
 LEVEL 12
-━━━━━━━━━━━━━━━━━━░░░░
+██████████████░░░░░░
 1,240 / 1,500 XP
 
 ---
