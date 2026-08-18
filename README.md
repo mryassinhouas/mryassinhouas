@@ -19,7 +19,7 @@
 
 💻 Building websites, desktop applications and data projects
 
-🎯 Goal
+🎯  MY Goal
 
 
 Become a Professional Big Data Engineer.
