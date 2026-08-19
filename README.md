@@ -1,123 +1,136 @@
-<img width="600" height="100" alt="download" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" align='center'/>
 <div align="center">
-<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg" align='center'>
-  <defs align='center'>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%" align='center'>
-      <stop offset="0%" stop-color="white" align='center'>
-        <animate attributeName="stop-color" values="white;#00aaff;white" dur="3s" repeatCount="indefinite" align='center'></animate>
-      </stop>
-    </defs>
 
-  <text x="50%" y="65%" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="url(#gradient)">
-  </text>
-</svg>
+<img width="600" height="100" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" alt="Hi I'm Yassin">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Big+Data+Student;Python+Developer;Web+Developer;Future+Data+Engineer;Always+Learning+New+Technologies" align="center">
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Big+Data+Student;Python+Developer;Web+Developer;Future+Data+Engineer;Always+Learning+New+Technologies" alt="Typing SVG">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn" algin='center'/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="Welcome to my GitHub">
 
 </div>
 
 # 💻 About Me
 
-📊 Big Data Student
+📊 **Big Data Student**
 
-💙 Passionate about Data Science, Big Data & AI and trading
+💙 Passionate about **Data Science, Big Data, AI and Trading**
 
-🌍 From Tunisia
+🌍 From **Tunisia**
 
-💻 Building websites, desktop applications and data projects
+💻 Building **websites, desktop applications and data projects**
 
-🎯  MY Goal
+🎯 My goal is to become a **Professional Big Data Engineer**
 
+### 🚀 Currently Learning
 
-Become a Professional Big Data Engineer.
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Big Data
+- ⚡ JavaScript
+- 🌐 HTML & CSS
+- 🐧 Linux
+- 🔧 Git & GitHub
 
-- Python
-- SQL
-- Big Data
-- JavaScript
-- HTML & CSS
-- Linux
-- Git & GitHub
 ---
 
 # ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,linux,vscode,mysql&perline=10"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,linux,vscode,mysql&perline=10" alt="Tech Stack">
+
+</div>
 
 ---
 
+# 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mryassinhouas/mryassinhouas/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mryassinhouas/mryassinhouas/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mryassinhouas/mryassinhouas/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/mryassinhouas/mryassinhouas/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake">
+</picture>
+
+</div>
 
 ---
-🎮 DEVELOPER LEVEL
 
-LEVEL 12
-██████████████░░░░░░
-1,240 / 1,500 XP
+# 🎮 Developer Level
 
----
+<div align="center">
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00bfff,100:000000"/>
-</p>
+### LEVEL 12
+
+`██████████████░░░░░░`
+
+**1,240 / 1,500 XP**
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas&theme=tokyo-night"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas&theme=tokyo-night"
+  alt="GitHub Contribution Graph">
 
-</p>
+</div>
 
 ---
 
-# 🛠 Skills
+# 🛠️ Skills
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=apachehadoop&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=apachehadoop&logoColor=00BFFF" alt="Big Data">
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
 
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL">
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
 
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
 
-</p>
+</div>
 
 ---
 
 # 📫 Contact
 
+<div align="center">
+
 📧 **Email:** medsanhous@gmail.com
 
-🐙 **GitHub:** https://github.com/mryassinhouas
+🐙 **GitHub:** [@mryassinhouas](https://github.com/mryassinhouas)
 
-📱 Phone: +216 28 421 412
+</div>
 
 ---
 
+# 👀 Visitors
+
 <div align="center">
 
-### 👀 Visitors
-
-<img src="https://komarev.com/ghpvc/?username=mryassinhouas&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img
+  src="https://komarev.com/ghpvc/?username=mryassinhouas&label=Profile+Views&color=0e75b6&style=for-the-badge"
+  alt="Profile Views">
 
 </div>
 
@@ -127,6 +140,8 @@ LEVEL 12
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer"
+  alt="Footer">
 
 </div>
