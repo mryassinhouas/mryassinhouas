@@ -1,5 +1,26 @@
+<img width="600" height="100" alt="download" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" />
 <div align="center">
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="white">
+        <animate attributeName="stop-color" values="white;#00aaff;white" dur="3s" repeatCount="indefinite"></animate>
+      </stop>
 
+      <stop offset="50%" stop-color="#008cff">
+        <animate attributeName="stop-color" values="#008cff;white;#008cff" dur="3s" repeatCount="indefinite"></animate>
+      </stop>
+
+      <stop offset="100%" stop-color="white">
+        <animate attributeName="stop-color" values="white;#0066ff;white" dur="3s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient>
+</defs>
+
+  <text x="50%" y="65%" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="url(#gradient)">
+    👋 Hi, I'm Yassin
+  </text>
+</svg>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Big+Data+Student;Python+Developer;Web+Developer;Future+Data+Engineer;Always+Learning+New+Technologies">
 
