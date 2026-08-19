@@ -12,11 +12,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="Welcome to my GitHub">
 
 </div>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff1493,50:8a2be2,100:00bfff" width="100%" alt="Neon gradient">
-
-</div>
 # 💻 About Me
 
 📊 **Big Data Student**
