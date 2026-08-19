@@ -1,4 +1,4 @@
-<img width="600" height="100" alt="download" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" />
+<img width="600" height="100" alt="download" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" align='center'/>
 <div align="center">
 <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
