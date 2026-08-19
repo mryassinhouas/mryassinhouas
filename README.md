@@ -6,15 +6,6 @@
       <stop offset="0%" stop-color="white">
         <animate attributeName="stop-color" values="white;#00aaff;white" dur="3s" repeatCount="indefinite"></animate>
       </stop>
-
-      <stop offset="50%" stop-color="#008cff">
-        <animate attributeName="stop-color" values="#008cff;white;#008cff" dur="3s" repeatCount="indefinite"></animate>
-      </stop>
-
-      <stop offset="100%" stop-color="white">
-        <animate attributeName="stop-color" values="white;#0066ff;white" dur="3s" repeatCount="indefinite"></animate>
-      </stop>
-    </linearGradient>
 </defs>
 
   <text x="50%" y="65%" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="url(#gradient)">
