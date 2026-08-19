@@ -1,7 +1,7 @@
 <img width="600" height="100" alt="download" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" align='center'/>
 <div align="center">
-<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg" align='center'>
+  <defs align='center'>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="white">
         <animate attributeName="stop-color" values="white;#00aaff;white" dur="3s" repeatCount="indefinite"></animate>
