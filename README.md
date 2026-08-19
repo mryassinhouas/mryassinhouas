@@ -3,7 +3,7 @@
 <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg" align='center'>
   <defs align='center'>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%" align='center'>
-      <stop offset="0%" stop-color="white">
+      <stop offset="0%" stop-color="white" align='center'>
         <animate attributeName="stop-color" values="white;#00aaff;white" dur="3s" repeatCount="indefinite" align='center'></animate>
       </stop>
     </defs>
@@ -12,7 +12,7 @@
   </text>
 </svg>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Big+Data+Student;Python+Developer;Web+Developer;Future+Data+Engineer;Always+Learning+New+Technologies" align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Big+Data+Student;Python+Developer;Web+Developer;Future+Data+Engineer;Always+Learning+New+Technologies" align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn" algin='center'/>
