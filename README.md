@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm  Yassin
+<p align="center">
+  <img src="https://github.com/MedYassinHouse/MedYassinHouse/blob/main/assets/hello-animation.gif" width="700">
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Big+Data+Student;Python+Developer;Web+Developer;Future+Data+Engineer;Always+Learning+New+Technologies">
 
