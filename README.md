@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff1493,50:8a2be2,100:00bfff" width="100%" alt="Neon gradient">
-
-</div>
 <div align="center">
 
 <img width="600" height="100" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" alt="Hi I'm Yassin">
@@ -16,7 +12,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20To%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="Welcome to my GitHub">
 
 </div>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff1493,50:8a2be2,100:00bfff" width="100%" alt="Neon gradient">
+
+</div>
 # 💻 About Me
 
 📊 **Big Data Student**
