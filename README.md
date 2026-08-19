@@ -1,10 +1,4 @@
-<body 
-    background: linear-gradient(
-        120deg,
-        #ff1493,
-        #8a2be2,
-        #00bfff,)
->
+
 
 <div align="center">
 
