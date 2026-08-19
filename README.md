@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:007BFF,100:00BFFF&text=👋%20Hi,%20I'm%20Yassin&fontColor=ffffff&fontSize=40" width="100%">
+
+</div>
+<div align="center">
+
 <img width="600" height="100" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" alt="Hi I'm Yassin">
 
 <br>
