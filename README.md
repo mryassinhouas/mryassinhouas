@@ -9,7 +9,6 @@
 </defs>
 
   <text x="50%" y="65%" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="url(#gradient)">
-    👋 Hi, I'm Yassin
   </text>
 </svg>
 
