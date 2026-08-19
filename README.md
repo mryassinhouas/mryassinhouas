@@ -1,4 +1,4 @@
-
+<body>
 <div align="center">
 
 <img width="600" height="100" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" alt="Hi I'm Yassin">
@@ -146,3 +146,4 @@
   alt="Footer">
 
 </div>
+</body>
