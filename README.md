@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="600" height="100" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" alt="Hi I'm Yassin">
@@ -13,31 +12,79 @@
 
 </div>
 
-# 💻 About Me
+<h1>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">💻 About Me</span>
+</h1>
 
-📊 **Big Data Student**
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+📊 <strong>Big Data Student</strong>
+</span>
+</p>
 
-💙 Passionate about **Data Science, Big Data, AI and Trading**
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+💙 Passionate about <strong>Data Science, Big Data, AI and Trading</strong>
+</span>
+</p>
 
-🌍 From **Tunisia**
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+🌍 From <strong>Tunisia</strong>
+</span>
+</p>
 
-💻 Building **websites, desktop applications and data projects**
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+💻 Building <strong>websites, desktop applications and data projects</strong>
+</span>
+</p>
 
-🎯 My goal is to become a **Professional Big Data Engineer**
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+🎯 My goal is to become a <strong>Professional Big Data Engineer</strong>
+</span>
+</p>
 
-### 🚀 Currently Learning
+<h3>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">🚀 Currently Learning</span>
+</h3>
 
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Big Data
-- ⚡ JavaScript
-- 🌐 HTML & CSS
-- 🐧 Linux
-- 🔧 Git & GitHub
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+🐍 Python
+</span>
+<br>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+🗄️ SQL
+</span>
+<br>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+📊 Big Data
+</span>
+<br>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+⚡ JavaScript
+</span>
+<br>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+🌐 HTML & CSS
+</span>
+<br>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+🐧 Linux
+</span>
+<br>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+🔧 Git & GitHub
+</span>
+</p>
 
 ---
 
-# ⚡ Tech Stack
+<h1>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">⚡ Tech Stack</span>
+</h1>
 
 <div align="center">
 
@@ -47,7 +94,9 @@
 
 ---
 
-# 🐍 Contribution Snake
+<h1>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">🐍 Contribution Snake</span>
+</h1>
 
 <div align="center">
 
@@ -67,33 +116,47 @@
 
 ---
 
-# 🎮 Developer Level
+<h1>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">🎮 Developer Level</span>
+</h1>
 
 <div align="center">
 
-### LEVEL 29
+<h3>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">LEVEL 29</span>
+</h3>
 
-`██████████████░░░░░░`
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text; font-family: monospace;">
+██████████████░░░░░░
+</span>
 
-**2,740 / 3,000 XP**
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+<strong>2,740 / 3,000 XP</strong>
+</span>
+</p>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+<h1>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">📈 Contribution Graph</span>
+</h1>
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas&theme=tokyo-night"
-  alt="GitHub Contribution Graph">
+src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas&theme=tokyo-night"
+alt="GitHub Contribution Graph">
 
 </div>
 
 ---
 
-# 🛠️ Skills
+<h1>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">🛠️ Skills</span>
+</h1>
 
 <div align="center">
 
@@ -113,26 +176,43 @@
 
 ---
 
-# 📫 Contact
+<h1>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">📫 Contact</span>
+</h1>
 
 <div align="center">
 
-📧 **Email:** medsanhous@gmail.com
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+📧 <strong>Email:</strong> medsanhous@gmail.com
+</span>
+</p>
 
-🐙 **GitHub:** [@mryassinhouas](https://github.com/mryassinhouas)
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+🐙 <strong>GitHub:</strong> @mryassinhouas
+</span>
+</p>
 
-📱 **phone:** +216 28421412
+<p>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
+📱 <strong>Phone:</strong> +216 28421412
+</span>
+</p>
+
 </div>
 
 ---
 
-# 👀 Visitors
+<h1>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">👀 Visitors</span>
+</h1>
 
 <div align="center">
 
 <img
-  src="https://komarev.com/ghpvc/?username=mryassinhouas&label=Profile+Views&color=0e75b6&style=for-the-badge"
-  alt="Profile Views">
+src="https://komarev.com/ghpvc/?username=mryassinhouas&label=Profile+Views&color=0e75b6&style=for-the-badge"
+alt="Profile Views">
 
 </div>
 
@@ -140,11 +220,13 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<h3>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">⭐ Thanks for visiting my profile!</span>
+</h3>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer"
-  alt="Footer">
+src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer"
+alt="Footer">
 
 </div>
-</body>
+
