@@ -12,81 +12,82 @@
 
 </div>
 
-<h1>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">💻 About Me</span>
-</h1>
-
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-📊 <strong>Big Data Student</strong>
-</span>
-</p>
-
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-💙 Passionate about <strong>Data Science, Big Data, AI and Trading</strong>
-</span>
-</p>
-
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-🌍 From <strong>Tunisia</strong>
-</span>
-</p>
-
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-💻 Building <strong>websites, desktop applications and data projects</strong>
-</span>
-</p>
-
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-🎯 My goal is to become a <strong>Professional Big Data Engineer</strong>
-</span>
-</p>
-
-<h3>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">🚀 Currently Learning</span>
-</h3>
-
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-🐍 Python
-</span>
 <br>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-🗄️ SQL
-</span>
+
+<div align="center">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20About%20Me&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="About Me">
+
+</div>
+
 <br>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-📊 Big Data
-</span>
+
+<div align="center">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%8A%20Big%20Data%20Student&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Big Data Student">
+
 <br>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-⚡ JavaScript
-</span>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%99%20Passionate%20about%20Data%20Science%2C%20Big%20Data%2C%20AI%20and%20Trading&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Passionate about Data Science Big Data AI and Trading">
+
 <br>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-🌐 HTML & CSS
-</span>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8C%8D%20From%20Tunisia&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="From Tunisia">
+
 <br>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-🐧 Linux
-</span>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20Building%20websites%2C%20desktop%20applications%20and%20data%20projects&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Building websites desktop applications and data projects">
+
 <br>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-🔧 Git & GitHub
-</span>
-</p>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8E%AF%20My%20goal%20is%20to%20become%20a%20Professional%20Big%20Data%20Engineer&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="My goal is to become a Professional Big Data Engineer">
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9A%80%20Currently%20Learning&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Currently Learning">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%8D%20Python&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Python">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%97%84%EF%B8%8F%20SQL&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="SQL">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%8A%20Big%20Data&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Big Data">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9A%A1%20JavaScript&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="JavaScript">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8C%90%20HTML%20%26%20CSS&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="HTML and CSS">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%A7%20Linux&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Linux">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%94%A7%20Git%20%26%20GitHub&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Git and GitHub">
+
+</div>
 
 ---
 
-<h1>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">⚡ Tech Stack</span>
-</h1>
-
 <div align="center">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9A%A1%20Tech%20Stack&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Tech Stack">
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,linux,vscode,mysql&perline=10" alt="Tech Stack">
 
@@ -94,9 +95,13 @@
 
 ---
 
-<h1>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">🐍 Contribution Snake</span>
-</h1>
+<div align="center">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%8D%20Contribution%20Snake&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Contribution Snake">
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -116,35 +121,31 @@
 
 ---
 
-<h1>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">🎮 Developer Level</span>
-</h1>
-
 <div align="center">
 
-<h3>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">LEVEL 29</span>
-</h3>
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8E%AE%20Developer%20Level&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Developer Level">
 
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text; font-family: monospace;">
-██████████████░░░░░░
-</span>
+<br>
 
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-<strong>2,740 / 3,000 XP</strong>
-</span>
-</p>
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=LEVEL%2029&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=45" alt="Level 29">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="XP Progress">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=2%2C740%20%2F%203%2C000%20XP&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="2740 out of 3000 XP">
 
 </div>
 
 ---
 
-<h1>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">📈 Contribution Graph</span>
-</h1>
-
 <div align="center">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%88%20Contribution%20Graph&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Contribution Graph">
+
+<br>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas&theme=tokyo-night"
@@ -154,11 +155,11 @@ alt="GitHub Contribution Graph">
 
 ---
 
-<h1>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">🛠️ Skills</span>
-</h1>
-
 <div align="center">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9B%A0%EF%B8%8F%20Skills&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Skills">
+
+<br>
 
 <img src="https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=apachehadoop&logoColor=00BFFF" alt="Big Data">
 
@@ -176,39 +177,31 @@ alt="GitHub Contribution Graph">
 
 ---
 
-<h1>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">📫 Contact</span>
-</h1>
-
 <div align="center">
 
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-📧 <strong>Email:</strong> medsanhous@gmail.com
-</span>
-</p>
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%AB%20Contact&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Contact">
 
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-🐙 <strong>GitHub:</strong> @mryassinhouas
-</span>
-</p>
+<br>
 
-<p>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">
-📱 <strong>Phone:</strong> +216 28421412
-</span>
-</p>
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%A7%20Email%3A%20medsanhous%40gmail.com&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Email">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%99%20GitHub%3A%20%40mryassinhouas&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="GitHub">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%B1%20Phone%3A%20%2B216%2028421412&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Phone">
 
 </div>
 
 ---
 
-<h1>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">👀 Visitors</span>
-</h1>
-
 <div align="center">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%91%80%20Visitors&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Visitors">
+
+<br>
 
 <img
 src="https://komarev.com/ghpvc/?username=mryassinhouas&label=Profile+Views&color=0e75b6&style=for-the-badge"
@@ -220,13 +213,12 @@ alt="Profile Views">
 
 <div align="center">
 
-<h3>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">⭐ Thanks for visiting my profile!</span>
-</h3>
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%AD%90%20Thanks%20for%20visiting%20my%20profile%21&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=50" alt="Thanks for visiting my profile">
+
+<br>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer"
 alt="Footer">
 
 </div>
-
