@@ -17,7 +17,6 @@
 </h1>
 
 <div align="center">
-<h2>💻 About Me</h2>
 
 <table>
 <tr>
@@ -25,23 +24,13 @@
 
 📊 <strong>Big Data Student</strong>
 
-<br><br>
-
 💙 Passionate about <strong>Data Science, Big Data, AI and Trading</strong>
-
-<br><br>
 
 🌍 From <strong>Tunisia</strong>
 
-<br><br>
-
 💻 Building <strong>websites, desktop applications and data projects</strong>
 
-<br><br>
-
 🚀 Exploring <strong>Data Engineering & Modern Technologies</strong>
-
-<br><br>
 
 🎯 My goal is to become a <strong>Professional Big Data Engineer</strong>
 
