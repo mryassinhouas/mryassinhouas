@@ -12,9 +12,7 @@
 
 </div>
 
-<h1>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20About%20Me&template=text-shimmer-purple&color0=ffffff&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="About Me">
-</h1>
 
 <div>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%8A%20Big%20Data%20Student&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Big Data Student"><br>
@@ -37,7 +35,6 @@
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%A7%20Linux&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Linux"><br>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%94%A7%20Git%20%26%20GitHub&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Git and GitHub">
 </div>
-
 ---
 
 <h1>
