@@ -30,36 +30,40 @@
 <tr>
 <td width="700">
 
-<h1>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20About%20Me&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="About Me">
-</h1>
+<h2>💻 About Me</h2>
 
 <table>
 <tr>
 <td width="700">
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%8A%20Big%20Data%20Student&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=28&fontSize=17" alt="Big Data Student">
+<p>
+<span style="color:#ff4ecd"><strong>📊 Big Data Student</strong></span>
+</p>
 
-<br>
+<p>
+<span style="color:#ff4ecd"><strong>💙 Passionate about</strong></span>
+<span style="color:#9b5cff"><strong> Data Science, Big Data, AI and Trading</strong></span>
+</p>
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%99%20Passionate%20about%20Data%20Science%2C%20Big%20Data%2C%20AI%20and%20Trading&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=28&fontSize=17" alt="Passionate about Data Science Big Data AI and Trading">
+<p>
+<span style="color:#9b5cff"><strong>🌍 From Tunisia</strong></span>
+</p>
 
-<br>
+<p>
+<span style="color:#9b5cff"><strong>💻 Building websites, desktop applications and data projects</strong></span>
+</p>
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8C%8D%20From%20Tunisia&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=28&fontSize=17" alt="From Tunisia">
+<p>
+<span style="color:#00bfff"><strong>🚀 Exploring Data Engineering & Modern Technologies</strong></span>
+</p>
 
-<br>
+<p>
+<span style="color:#00bfff"><strong>🎯 My goal is to become a Professional Big Data Engineer</strong></span>
+</p>
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20Building%20websites%2C%20desktop%20applications%20and%20data%20projects&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=28&fontSize=17" alt="Building websites desktop applications and data projects">
-
-<br>
-
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9A%80%20Exploring%20Data%20Engineering%20%26%20Modern%20Technologies&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=28&fontSize=17" alt="Exploring Data Engineering and Modern Technologies">
-
-<br>
-
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8E%AF%20My%20goal%20is%20to%20become%20a%20Professional%20Big%20Data%20Engineer&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=28&fontSize=17" alt="My goal is to become a Professional Big Data Engineer">
-
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
