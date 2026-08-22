@@ -35,7 +35,6 @@
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%A7%20Linux&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Linux"><br>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%94%A7%20Git%20%26%20GitHub&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Git and GitHub">
 </div>
----
 
 <h1>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9A%A1%20Tech%20Stack&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Tech Stack">
