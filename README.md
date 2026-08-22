@@ -30,8 +30,6 @@
 <tr>
 <td width="700">
 
-<h2>💻 About Me</h2>
-
 <table>
 <tr>
 <td width="700">
