@@ -13,7 +13,7 @@
 </div>
 
 <h1>
-<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">💻 About Me</span>
+<span style="background: linear-gradient(90deg, #ff4ecd, #9b5cff, #00bfff, #9b5cff, #ff4ecd); background-size: 300% 100%; color: transparent; background-clip: text; -webkit-background-clip: text;">💻 About Me-----------------------------------------------------------------------------------------------------</span>
 </h1>
 
 <p>
