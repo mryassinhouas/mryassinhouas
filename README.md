@@ -17,61 +17,37 @@
 </h1>
 
 <div align="center">
+<h2>💻 About Me</h2>
 
 <table>
 <tr>
-<td align="center" width="700">
+<td width="700">
 
+📊 <strong>Big Data Student</strong>
 
 <br><br>
 
+💙 Passionate about <strong>Data Science, Big Data, AI and Trading</strong>
 
-<table>
-<tr>
-<td width="700">
+<br><br>
 
-<table>
-<tr>
-<td width="700">
+🌍 From <strong>Tunisia</strong>
 
-<p>
-<span style="color:#ff4ecd"><strong>📊 Big Data Student</strong></span>
-</p>
+<br><br>
 
-<p>
-<span style="color:#ff4ecd"><strong>💙 Passionate about</strong></span>
-<span style="color:#9b5cff"><strong> Data Science, Big Data, AI and Trading</strong></span>
-</p>
+💻 Building <strong>websites, desktop applications and data projects</strong>
 
-<p>
-<span style="color:#9b5cff"><strong>🌍 From Tunisia</strong></span>
-</p>
+<br><br>
 
-<p>
-<span style="color:#9b5cff"><strong>💻 Building websites, desktop applications and data projects</strong></span>
-</p>
+🚀 Exploring <strong>Data Engineering & Modern Technologies</strong>
 
-<p>
-<span style="color:#00bfff"><strong>🚀 Exploring Data Engineering & Modern Technologies</strong></span>
-</p>
+<br><br>
 
-<p>
-<span style="color:#00bfff"><strong>🎯 My goal is to become a Professional Big Data Engineer</strong></span>
-</p>
+🎯 My goal is to become a <strong>Professional Big Data Engineer</strong>
 
 </td>
 </tr>
 </table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
 </div>
 <h1>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9A%A1%20Tech%20Stack&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Tech Stack">
