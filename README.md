@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%99%20Passionate%20about%20Data%20Science%2C%20Big%20Data%2C%20AI%20%26%20Trading&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Passionate about Data Science Big Data AI and Trading">
+<img text=%F0%9F%92%99%20Passionate%20about%20Data%20Science%2C%20Big%20Data%2C%20AI%20%26%20Trading&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Passionate about Data Science Big Data AI and Trading">
 
 <br>
 
