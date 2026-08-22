@@ -13,7 +13,7 @@
 </div>
 
 <h1>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20About%20Me&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="About Me">
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20About%20Me&template=text-shimmer-purple&color0=ffffff&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="About Me">
 </h1>
 
 <div>
