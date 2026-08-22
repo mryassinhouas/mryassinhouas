@@ -26,13 +26,10 @@
 
 <br><br>
 
-<h2>💻 About Me</h2>
 
 <table>
 <tr>
 <td width="700">
-
-### 📊 Big Data Student
 
 💙 Passionate about **Data Science, Big Data, AI and Trading**
 
