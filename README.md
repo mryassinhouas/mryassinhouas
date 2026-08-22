@@ -22,7 +22,6 @@
 <tr>
 <td align="center" width="700">
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%8A%20BIG%20DATA%20STUDENT&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=35&fontSize=22" alt="Big Data Student">
 
 <br><br>
 
