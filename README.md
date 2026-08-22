@@ -14,15 +14,9 @@
 
 <br>
 
-<div align="center">
-
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20About%20Me&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="About Me">
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%8A%20Big%20Data%20Student&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Big Data Student">
 
@@ -42,12 +36,7 @@
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8E%AF%20My%20goal%20is%20to%20become%20a%20Professional%20Big%20Data%20Engineer&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="My goal is to become a Professional Big Data Engineer">
 
-</div>
-
-<br>
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9A%80%20Currently%20Learning&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Currently Learning">
 
@@ -79,15 +68,13 @@
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%94%A7%20Git%20%26%20GitHub&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Git and GitHub">
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9A%A1%20Tech%20Stack&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Tech Stack">
 
 <br>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,linux,vscode,mysql&perline=10" alt="Tech Stack">
 
@@ -95,11 +82,7 @@
 
 ---
 
-<div align="center">
-
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%8D%20Contribution%20Snake&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Contribution Snake">
-
-</div>
 
 <br>
 
@@ -121,8 +104,6 @@
 
 ---
 
-<div align="center">
-
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8E%AE%20Developer%20Level&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Developer Level">
 
 <br>
@@ -137,15 +118,13 @@
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=2%2C740%20%2F%203%2C000%20XP&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="2740 out of 3000 XP">
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%88%20Contribution%20Graph&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Contribution Graph">
 
 <br>
+
+<div align="center">
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas&theme=tokyo-night"
@@ -155,11 +134,11 @@ alt="GitHub Contribution Graph">
 
 ---
 
-<div align="center">
-
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9B%A0%EF%B8%8F%20Skills&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Skills">
 
 <br>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=apachehadoop&logoColor=00BFFF" alt="Big Data">
 
@@ -177,8 +156,6 @@ alt="GitHub Contribution Graph">
 
 ---
 
-<div align="center">
-
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%AB%20Contact&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Contact">
 
 <br>
@@ -193,15 +170,13 @@ alt="GitHub Contribution Graph">
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%B1%20Phone%3A%20%2B216%2028421412&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=40" alt="Phone">
 
-</div>
-
 ---
-
-<div align="center">
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%91%80%20Visitors&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=55" alt="Visitors">
 
 <br>
+
+<div align="center">
 
 <img
 src="https://komarev.com/ghpvc/?username=mryassinhouas&label=Profile+Views&color=0e75b6&style=for-the-badge"
@@ -211,11 +186,11 @@ alt="Profile Views">
 
 ---
 
-<div align="center">
-
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%AD%90%20Thanks%20for%20visiting%20my%20profile%21&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=50" alt="Thanks for visiting my profile">
 
 <br>
+
+<div align="center">
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer"
