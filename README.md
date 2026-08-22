@@ -26,24 +26,27 @@
 
 <br><br>
 
-<img text=%F0%9F%92%99%20Passionate%20about%20Data%20Science%2C%20Big%20Data%2C%20AI%20%26%20Trading&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Passionate about Data Science Big Data AI and Trading">
+<h2>💻 About Me</h2>
 
-<br>
+<table>
+<tr>
+<td width="700">
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8C%8D%20Based%20in%20Tunisia&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Based in Tunisia">
+### 📊 Big Data Student
 
-<br>
+💙 Passionate about **Data Science, Big Data, AI and Trading**
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20Building%20Web%20%7C%20Desktop%20%7C%20Data%20Projects&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Building Web Desktop Data Projects">
+🌍 From **Tunisia**
 
-<br>
+💻 Building **Web • Desktop • Data Projects**
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9A%80%20Exploring%20Data%20Engineering%20%26%20Modern%20Technologies&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Exploring Data Engineering and Modern Technologies">
+🚀 Exploring **Data Engineering & Modern Technologies**
 
-<br><br>
+🎯 **Goal:** Become a Professional Big Data Engineer
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9C%A8%20GOAL%3A%20BECOME%20A%20PROFESSIONAL%20BIG%20DATA%20ENGINEER&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=5s&height=32&fontSize=18" alt="Goal Become a Professional Big Data Engineer">
-
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
