@@ -12,30 +12,43 @@
 
 </div>
 
+<h1>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20About%20Me&template=text-shimmer-purple&color0=ffffff&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="About Me">
+</h1>
 
-<div>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%8A%20Big%20Data%20Student&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Big Data Student"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%99%20Passionate%20about%20Data%20Science%2C%20Big%20Data%2C%20AI%20and%20Trading&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Passionate about Data Science Big Data AI and Trading"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8C%8D%20From%20Tunisia&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="From Tunisia"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20Building%20websites%2C%20desktop%20applications%20and%20data%20projects&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Building websites desktop applications and data projects"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8E%AF%20My%20goal%20is%20to%20become%20a%20Professional%20Big%20Data%20Engineer&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="My goal is to become a Professional Big Data Engineer">
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="700">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%8A%20BIG%20DATA%20STUDENT&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=35&fontSize=22" alt="Big Data Student">
+
+<br><br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%99%20Passionate%20about%20Data%20Science%2C%20Big%20Data%2C%20AI%20%26%20Trading&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Passionate about Data Science Big Data AI and Trading">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8C%8D%20Based%20in%20Tunisia&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Based in Tunisia">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20Building%20Web%20%7C%20Desktop%20%7C%20Data%20Projects&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Building Web Desktop Data Projects">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9A%80%20Exploring%20Data%20Engineering%20%26%20Modern%20Technologies&template=text-shimmer-purple&color0=00bfff&color1=9b5cff&color2=ff4ecd&duration=5s&height=28&fontSize=17" alt="Exploring Data Engineering and Modern Technologies">
+
+<br><br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9C%A8%20GOAL%3A%20BECOME%20A%20PROFESSIONAL%20BIG%20DATA%20ENGINEER&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=5s&height=32&fontSize=18" alt="Goal Become a Professional Big Data Engineer">
+
+</td>
+</tr>
+</table>
+
 </div>
-
-<h3>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9A%80%20Currently%20Learning&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Currently Learning">
-</h3>
-
-<div>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%8D%20Python&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Python"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%97%84%EF%B8%8F%20SQL&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="SQL"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%8A%20Big%20Data&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Big Data"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9A%A1%20JavaScript&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="JavaScript"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%8C%90%20HTML%20%26%20CSS&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="HTML and CSS"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%A7%20Linux&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Linux"><br>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%94%A7%20Git%20%26%20GitHub&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Git and GitHub">
-</div>
-
 <h1>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9A%A1%20Tech%20Stack&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Tech Stack">
 </h1>
