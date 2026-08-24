@@ -48,7 +48,7 @@
 
 </div>
 
-------------------------
+-
 
 <h1>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%8D%20Contribution%20Snake&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Contribution Snake">
