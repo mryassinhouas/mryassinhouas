@@ -89,7 +89,7 @@
 
 <br>
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=141%20Contributions&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=15" alt="141 Contributions">
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=141%20Contributions&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=15">
 
 </div>
 
