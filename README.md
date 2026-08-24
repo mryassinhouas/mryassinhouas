@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=LEVEL%2029&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=17" alt="Level 20">
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=LEVEL%2029&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=17" alt="Level 4">
 
 <br>
 
@@ -85,7 +85,7 @@
 
 <br>
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=2%2C740%20%2F%203%2C000%20XP&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=16" alt="2740 out of 3000 XP">
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=2%2C740%20%2F%203%2C000%20XP&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=16" alt="705 out of 1000 XP">
 
 </div>
 
