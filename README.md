@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=LEVEL%2029&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=17" alt="Level 29">
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=LEVEL%2029&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=17" alt="Level 20">
 
 <br>
 
