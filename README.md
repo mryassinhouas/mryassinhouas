@@ -77,15 +77,19 @@
 
 <div align="center">
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=LEVEL%2029&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=17" alt="Level 4">
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=LEVEL%204&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=17" alt="Level 4">
 
 <br>
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=22&fontSize=14" alt="XP Progress">
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=22&fontSize=14" alt="70% XP Progress">
 
 <br>
 
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=2%2C740%20%2F%203%2C000%20XP&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=16" alt="705 out of 1000 XP">
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=705%20%2F%201%2C000%20XP&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=16" alt="705 out of 1000 XP">
+
+<br>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=141%20Contributions&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=15" alt="141 Contributions">
 
 </div>
 
