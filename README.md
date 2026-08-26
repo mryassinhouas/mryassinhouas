@@ -88,9 +88,11 @@
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=705%20%2F%201%2C000%20XP&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=16" alt="705 out of 1000 XP">
 
 <br>
-<h1>
+<h1 align="left">
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9B%A0%EF%B8%8F%20Skills&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Skills">
 </h1>
+
+<div align="left">
 
 <img src="https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=apachehadoop&logoColor=00BFFF" alt="Big Data">
 
@@ -104,11 +106,15 @@
 
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
 
+</div>
+
 ---
 
-<h1>
+<h1 align="left">
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%AB%20Contact&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Contact">
 </h1>
+
+<div align="left">
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%A7%20Email%3A%20medsanhous%40gmail.com&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Email"><br>
 
@@ -116,17 +122,25 @@
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%B1%20Phone%3A%20%2B216%2028421412&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Phone">
 
+</div>
+
 ---
 
-<h1>
+<h1 align="left">
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%91%80%20Visitors&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Visitors">
 </h1>
+
+<div align="left">
 
 <img
 src="https://komarev.com/ghpvc/?username=mryassinhouas&label=Profile+Views&color=0e75b6&style=for-the-badge"
 alt="Profile Views">
 
+</div>
+
 ---
+
+<div align="left">
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%AD%90%20Thanks%20for%20visiting%20my%20profile%21&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=30&fontSize=19" alt="Thanks for visiting my profile">
 
@@ -135,3 +149,5 @@ alt="Profile Views">
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer"
 alt="Footer">
+
+</div>
