@@ -93,18 +93,14 @@
 </div>
 
 ---
-<h1>
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%88%20Contribution%20Graph&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Contribution Graph">
-</h1>
+<h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas&theme=tokyo-night&hide_border=true"
-  alt="GitHub Contribution Graph"
-  width="100%"
->
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </div>
 
 ---
