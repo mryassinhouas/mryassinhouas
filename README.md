@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<table border-style="pink">
+<table>
 <tr>
 <td width="700">
 
