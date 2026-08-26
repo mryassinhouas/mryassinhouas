@@ -88,36 +88,6 @@
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=705%20%2F%201%2C000%20XP&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=16" alt="705 out of 1000 XP">
 
 <br>
-----
-
-<h2 align="center">🔥 Coding Streak</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <h2>🔥</h2>
-      <h3>STREAK_CURRENT</h3>
-      <b>CURRENT STREAK</b>
-    </td>
-
-  <td align="center" width="180">
-      <h2>◉</h2>
-      <h3>STREAK_LONGEST</h3>
-      <b>LONGEST STREAK</b>
-    </td>
-
-  <td align="center" width="180">
-      <h2>◉</h2>
-      <h3>STREAK_TOTAL</h3>
-      <b>TOTAL DAYS</b>
-    </td>
-  </tr>
-</table>
-
-
-
----
-
 <h1>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9B%A0%EF%B8%8F%20Skills&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Skills">
 </h1>
