@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table>
+<table style="border: 2px solid #7b68ee; border-collapse: collapse;">
 <tr>
-<td width="700">
+<td width="700" style="border: 1px solid #8a2be2; padding: 15px;">
 
 📊 <strong>Big Data Student</strong>
 
@@ -37,6 +37,7 @@
 </td>
 </tr>
 </table>
+
 </div>
 <h1>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%9A%A1%20Tech%20Stack&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Tech Stack">
