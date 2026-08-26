@@ -92,18 +92,13 @@
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%9B%A0%EF%B8%8F%20Skills&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Skills">
 </h1>
 
-<div align="left">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=apachehadoop&logoColor=00BFFF" alt="Big Data">
-
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL">
-
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
 
 </div>
@@ -114,14 +109,10 @@
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%AB%20Contact&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Contact">
 </h1>
 
-<div align="left">
-
+<div>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%A7%20Email%3A%20medsanhous%40gmail.com&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Email"><br>
-
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%90%99%20GitHub%3A%20%40mryassinhouas&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="GitHub"><br>
-
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%B1%20Phone%3A%20%2B216%2028421412&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=24&fontSize=16" alt="Phone">
-
 </div>
 
 ---
@@ -130,24 +121,20 @@
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%91%80%20Visitors&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="Visitors">
 </h1>
 
-<div align="left">
+<div align="center">
 
-<img
-src="https://komarev.com/ghpvc/?username=mryassinhouas&label=Profile+Views&color=0e75b6&style=for-the-badge"
-alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=mryassinhouas&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 
 </div>
 
 ---
 
-<div align="left">
+<div align="center">
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%AD%90%20Thanks%20for%20visiting%20my%20profile%21&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=30&fontSize=19" alt="Thanks for visiting my profile">
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer"
-alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer" alt="Footer">
 
 </div>
