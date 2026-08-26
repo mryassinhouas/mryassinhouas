@@ -88,25 +88,16 @@
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=705%20%2F%201%2C000%20XP&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=25&fontSize=16" alt="705 out of 1000 XP">
 
 <br>
-
-
-</div>
-
----
-<h1 align="center">
-  <img
-    src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%93%88%20Contribution%20Graph&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21"
-    alt="Contribution Graph"
-  />
-</h1>
-
+----
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
+
+<h2>📈 Contribution Graph</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas">
+
 </div>
+
+
 ---
 
 <h1>
