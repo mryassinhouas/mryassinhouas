@@ -89,13 +89,31 @@
 
 <br>
 ----
-<div align="center">
 
-<h2>📈 Contribution Graph</h2>
+<h2 align="center">🔥 Coding Streak</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mryassinhouas">
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <h2>🔥</h2>
+      <h3>STREAK_CURRENT</h3>
+      <b>CURRENT STREAK</b>
+    </td>
 
-</div>
+  <td align="center" width="180">
+      <h2>◉</h2>
+      <h3>STREAK_LONGEST</h3>
+      <b>LONGEST STREAK</b>
+    </td>
+
+  <td align="center" width="180">
+      <h2>◉</h2>
+      <h3>STREAK_TOTAL</h3>
+      <b>TOTAL DAYS</b>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
