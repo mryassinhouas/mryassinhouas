@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20to%20my%20Github&fontColor=linear-gradient(90deg, #E8E8E8, #A8A8A8, #F5F5F5)&fontSize=45&animation=fadeIn" alt="Welcome to my GitHub">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20to%20my%20Github&fontColor=#C0C0C0&fontSize=45&animation=fadeIn" alt="Welcome to my GitHub">
 
 </div>
 
