@@ -9,10 +9,10 @@
 <br>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20to%20my%20Github&fontColor=%23C77DFF&fontSize=45&animation=fadeIn" alt="Welcome to my GitHub">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20to%20my%20Github&fontColor=C77DFF&fontSize=45&animation=fadeIn" alt="Welcome to my GitHub">
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20to%20my%20Github&fontColor=C77DFF&fontSize=45&animation=fadeIn" alt="Welcome to my GitHub">
+
 
 <h1>
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%F0%9F%92%BB%20About%20Me&template=text-shimmer-purple&color0=ffffff&color1=9b5cff&color2=00bfff&duration=6s&height=32&fontSize=21" alt="About Me">
