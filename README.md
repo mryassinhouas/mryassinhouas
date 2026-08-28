@@ -3,11 +3,6 @@
 <img width="600" height="100" src="https://github.com/user-attachments/assets/22e508eb-ce01-4a7d-a023-a70b2d4a09a1" alt="Welcome to my github">
 
 <br>
-<div align="center">
-
-<img width="600" height="100" src="YOUR_NEW_GITHUB_IMAGE_URL" alt="Welcome to my GitHub">
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Big+Data+Student;Python+Developer;Web+Developer;Future+Data+Engineer;Always+Learning+New+Technologies" alt="Typing SVG">
 
