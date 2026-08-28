@@ -136,9 +136,6 @@
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%E2%AD%90%20Thanks%20for%20visiting%20my%20profile%21&template=text-shimmer-purple&color0=ff4ecd&color1=9b5cff&color2=00bfff&duration=6s&height=30&fontSize=19" alt="Thanks for visiting my profile">
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer" alt="Footer">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:000000&height=120&section=footer" alt="Footer">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A0D,100:00A86B&height=120&section=footer" alt="Footer">
 
 </div>
