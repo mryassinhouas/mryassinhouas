@@ -139,4 +139,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer" alt="Footer">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:000000&height=120&section=footer" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A0D,100:00A86B&height=250&section=footer&text=Welcome%20to%20my%20Github&fontColor=B7FFB7&fontSize=45&animation=fadeIn" alt="Footer">
 </div>
