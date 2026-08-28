@@ -8,6 +8,14 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&fontColor=D9D9D9&fontSize=45&animation=fadeIn" alt="Header">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=D9D9D9&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Welcome+to+my+GitHub" alt="Typing">
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=250&section=header&text=Welcome%20to%20my%20Github&fontColor=#D9D9D9&fontSize=45&animation=fadeIn" alt="Welcome to my GitHub">
 
 </div>
