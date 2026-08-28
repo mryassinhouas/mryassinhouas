@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,linux,vscode,mysql&perline=10" alt="Tech Stack">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,linux,vscode,mysql,php&perline=10" alt="Tech Stack">
 
 </div>
 
