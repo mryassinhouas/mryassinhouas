@@ -46,7 +46,7 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,linux,vscode,mysql,php,nodejs,Docker&perline=10" alt="Tech Stack">
-
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,php,git,github,gitlab,linux,bash,vscode,mysql,postgresql,mongodb,sqlite,redis,docker,kubernetes,aws,azure,gcp,fastapi,flask,django,anaconda,jupyter,sklearn,tensorflow,pytorch,opencv,arduino&perline=10" alt="Tech Stack">
 </div>
 
 
