@@ -138,5 +138,5 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:000000&height=120&section=footer" alt="Footer">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B1F,50:006400,100:7CFC00&height=120&section=footer" alt="Footer">
 </div>
